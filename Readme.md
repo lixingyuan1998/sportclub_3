@@ -6,11 +6,11 @@
 
 启动zookeeper
 
-![1560773387038](src\img\1560773387038.png)
+![1560773387038](src/img/1560773387038.png)
 
 启动kafka
 
-![1560773594998](src\img\1560773594998.png)
+![1560773594998](src/img/1560773594998.png)
 
 
 
@@ -34,7 +34,7 @@ public class KafkaConsumer {
 }
 ```
 
-![1560774034196](src\img\1560774034196.png)
+![1560774034196](src/img/1560774034196.png)
 
 kafkaproducer
 
@@ -58,4 +58,4 @@ public class KafkaProducer {
 }
 ```
 
-![1560774082869](src\img\1560774082869.png)
+![1560774082869](src/img/1560774082869.png)
