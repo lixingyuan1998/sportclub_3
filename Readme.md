@@ -4,6 +4,16 @@
 16301095 李星原
 16301099 莫日根呼
 
+第一次作业<https://github.com/mrgh97/sport-club-1>
+
+第二次作业<https://github.com/mrgh97/sport-club-2>
+
+ 第三次作业 <https://github.com/lixingyuan1998/sportclub_3>
+
+第四次作业<https://github.com/lixingyuan1998/sportclub_4>
+
+springcloud 练习 <https://github.com/lixingyuan1998/springcloud_test>
+
 启动zookeeper
 
 ![1560773387038](src/img/1560773387038.png)
